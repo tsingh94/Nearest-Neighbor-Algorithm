@@ -1,5 +1,3 @@
-# Name: Teghveer Sahni
-
 import sys
 import time
 
