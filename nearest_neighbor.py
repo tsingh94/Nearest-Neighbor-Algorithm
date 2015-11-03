@@ -1,5 +1,4 @@
 # Name: Teghveer Sahni
-# TA: Andrew Section: 21
 
 import sys
 import time
